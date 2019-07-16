@@ -1,0 +1,4 @@
+---
+# vars file for .
+vars:
+  ssh_allow_users: adminansible
